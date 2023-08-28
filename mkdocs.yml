@@ -45,7 +45,5 @@ markdown_extensions:
 
 extra:
   social:
-    - icon: fontawesome/brands/linkedin
-      link: https://fosstodon.org/@squidfunk
     - icon: fontawesome/brands/github
-      link: https://fosstodon.org/@squidfunk
+      link: https://github.com/LesPrimus
