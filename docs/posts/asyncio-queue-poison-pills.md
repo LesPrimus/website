@@ -1,6 +1,6 @@
 # Asyncio Queue poison pills.
 
-### In an asyncio setup like this:
+In an asyncio setup like this:
 
 ```python
 import asyncio
