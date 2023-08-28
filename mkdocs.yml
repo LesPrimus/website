@@ -1,6 +1,8 @@
 site_name: LesPrimus
 
 theme:
+  icon:
+    logo: material/currency-sign
   name: material
   features:
     - navigation.tabs
