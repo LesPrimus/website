@@ -1,4 +1,5 @@
-# :smile: Welcome :smile:
+# Welcome :heart:
+---
 
 This is my website about coding and Python.
 

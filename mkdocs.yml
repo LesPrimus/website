@@ -31,6 +31,7 @@ theme:
       accent: lime
 
 markdown_extensions:
+  - markdown.extensions.admonition
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
