@@ -6,4 +6,4 @@ I am a huge fan of Yamaha basses, in particular the first 6 strings series like:
 ![Image caption](/website/assets/yamaha-trb-6P.webp)
 
 ### YAMAHA TRB6-JP John Patitucci signature.
-![Image caption](/assets/yamaha-trb-JP.jpg)
+![Image caption](/website/assets/yamaha-trb-JP.jpg)
