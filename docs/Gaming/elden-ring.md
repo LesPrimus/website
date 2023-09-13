@@ -1,4 +1,4 @@
-# ELDEN-RING
+# Elden-Ring
 
 [![Watch the video](https://img.youtube.com/vi/E3Huy2cdih0/maxresdefault.jpg)](https://www.youtube.com/watch?v=E3Huy2cdih0)
 
